@@ -1,9 +1,10 @@
 # Gui-for-gofile-downloader
 
 This code uses gofile-downloader with GNU license with some modifications and additions.
-Credits for gofile-downloader -> https://github.com/ltsdw/gofile-downloader
-ltsdw
-dimitrinove
+Credits gofile-downloader 
+https://github.com/ltsdw/gofile-downloader
+ltsdw https://github.com/ltsdw
+dimitrinove https://github.com/dmitrinove 
 
 We have a simple interface to download from gofile.io
 It is not a very useful tool since downloads can be done simply from the browser, but sometimes the browser can crash along with the downloads in progress.
