@@ -19,3 +19,5 @@ So I wanted to share it for whoever wants to use it.
 This is working on Gnu/Linux, I don't know if it can be adapted for Windows but probably yes, I don't have Windows to test, sorry.
 
 A good future modification could be to add the sequential download capacity, to leave the program downloading several games while we are not using the PC.
+
+Seq-V3.py Is the version seguential, good for bad connections to the internet.
